@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="Lab2_2.3/Lab2_2.3.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Lab2_2.4-ECB/Lab2_2.4-ECB.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Lab2_2.4_CBC/Lab2_2.4_CBC.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Lab2_2.4_CFB/Lab2_2.4_CFB.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Lab2_2.4_OFB/Lab2_2.4_OFB.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+    <Build Project="false" />
+  </Project>
+</Solution>
